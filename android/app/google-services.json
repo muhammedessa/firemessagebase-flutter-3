@@ -1,0 +1,311 @@
+{
+  "project_info": {
+    "project_number": "313867651764",
+    "firebase_url": "https://notes-79901.firebaseio.com",
+    "project_id": "notes-79901",
+    "storage_bucket": "notes-79901.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:313867651764:android:7b2efd0baf6e0037",
+        "android_client_info": {
+          "package_name": "com.example.firebasemessagingflutter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "313867651764-sfnu7v14rispvl34ajduv848u1p5b2q7.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "313867651764-h3qp9p3cla1lujr47bq6v9i7arevdd93.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAvoI1vGE7fwFsGGU0emkQkfIhmDsmUFrU"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:313867651764:android:538f799836da447d",
+        "android_client_info": {
+          "package_name": "com.muhammedessa.mlkit"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "313867651764-sfnu7v14rispvl34ajduv848u1p5b2q7.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "313867651764-h3qp9p3cla1lujr47bq6v9i7arevdd93.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAvoI1vGE7fwFsGGU0emkQkfIhmDsmUFrU"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:313867651764:android:507b47bc03223e34",
+        "android_client_info": {
+          "package_name": "org.codeforiraq.authapp.authapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "313867651764-l90s99prk4ta53mhs723g187qqegns68.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "org.codeforiraq.authapp.authapp",
+            "certificate_hash": "affa09c1d4d07260d73cc9a65038684783361098"
+          }
+        },
+        {
+          "client_id": "313867651764-sfnu7v14rispvl34ajduv848u1p5b2q7.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "313867651764-h3qp9p3cla1lujr47bq6v9i7arevdd93.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAvoI1vGE7fwFsGGU0emkQkfIhmDsmUFrU"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "313867651764-sfnu7v14rispvl34ajduv848u1p5b2q7.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "313867651764-hrtodh5vr3ucp3rkt8vbt6p22l8o1ore.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "org.codeforiraq.mapapp"
+              }
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:313867651764:android:1367ae59509636d3",
+        "android_client_info": {
+          "package_name": "org.codeforiraq.firebaseappmessage"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "313867651764-sfnu7v14rispvl34ajduv848u1p5b2q7.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "313867651764-h3qp9p3cla1lujr47bq6v9i7arevdd93.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAvoI1vGE7fwFsGGU0emkQkfIhmDsmUFrU"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:313867651764:android:ac133e0af5284193",
+        "android_client_info": {
+          "package_name": "org.codeforiraq.firemapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "313867651764-sfnu7v14rispvl34ajduv848u1p5b2q7.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "313867651764-h3qp9p3cla1lujr47bq6v9i7arevdd93.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAvoI1vGE7fwFsGGU0emkQkfIhmDsmUFrU"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:313867651764:android:7f82cde003f59604",
+        "android_client_info": {
+          "package_name": "org.codeforiraq.firemessagebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "313867651764-sfnu7v14rispvl34ajduv848u1p5b2q7.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "313867651764-h3qp9p3cla1lujr47bq6v9i7arevdd93.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAvoI1vGE7fwFsGGU0emkQkfIhmDsmUFrU"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:313867651764:android:dc70c68f9d386e1f",
+        "android_client_info": {
+          "package_name": "org.codeforiraq.mapapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "313867651764-sfnu7v14rispvl34ajduv848u1p5b2q7.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "313867651764-h3qp9p3cla1lujr47bq6v9i7arevdd93.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAvoI1vGE7fwFsGGU0emkQkfIhmDsmUFrU"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:313867651764:android:435200d1c7b1ea65",
+        "android_client_info": {
+          "package_name": "org.codeforiraq.mapfirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "313867651764-sfnu7v14rispvl34ajduv848u1p5b2q7.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "313867651764-h3qp9p3cla1lujr47bq6v9i7arevdd93.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAvoI1vGE7fwFsGGU0emkQkfIhmDsmUFrU"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
